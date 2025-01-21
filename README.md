@@ -1,4 +1,6 @@
-# vue-shopping
+# Model-SmartShopping
+
+基于Vant2和Vue2语法开发的移动端项目
 
 ## Project setup
 ```
